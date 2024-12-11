@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Andrey and I'm from Moscow</h2>
+<h2 align="left">Hi 👋! My name is Andrey. I'm from Moscow and searching for a job.</h2>
 
 ###
 
